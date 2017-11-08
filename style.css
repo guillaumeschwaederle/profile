@@ -1,0 +1,43 @@
+#container {
+  width: 60%
+  margin: auto;
+}
+
+.div {
+  display: block;
+}
+
+.card  {
+  margin: 10px;
+}
+.card_text-center{
+  width: 50%;
+  margin: auto;
+  padding-top: 10px;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.4)
+}
+
+.text-center {
+  text-align: center;
+}
+
+body {
+  background-image:url(images/landscape.jpeg);
+  background-size: 100%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+#profil {
+  width: 200px;
+  height: 200px;
+  border-radius: 150px;
+}
+
+a:hover
+{
+  text-decoration: underline;
+  color: green;
+}
+
